@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeshuagit
+- 👋 Hi, I’m @okoriejoshua
 - 👀 I’m interested in web development and APIs 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on new projects 
@@ -12,6 +12,6 @@ info@codeshua.com
      
 
 <!---
-codeshuagit/codeshuagit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+okoriejoshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
